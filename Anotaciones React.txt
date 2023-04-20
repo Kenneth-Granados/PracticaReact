@@ -1,0 +1,8 @@
+npm create vite@latest my-react-intro-vite -- --template react //crea una plantilla de React basica
+
+prettier setlint revisa sintaxis
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascriptreact]": {//lo formatea en estandar de react
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
